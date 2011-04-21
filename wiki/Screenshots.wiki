@@ -1,4 +1,5 @@
-#summary картинки
+#summary screenshots, pictures ...
+#labels Screenshots
 
 = Screenshots 1 =
 
