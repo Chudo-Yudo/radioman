@@ -1,5 +1,5 @@
 #summary more pictures ...
-#labels Phase-Design
+#labels Design
 
 = Screenshots 1 =
 
